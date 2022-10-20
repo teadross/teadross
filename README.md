@@ -1,5 +1,7 @@
-### Hi there 👋
-I am Jiemin Lin from Soochow University and I will share my current works here. 
+### Hi there 👋  
+I am Jiemin Lin from Soochow University and I will share my current works here.  
+You can read more in [my personal homepage](https://teadross.github.io/).  
+
 <!--
 **teadross/teadross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
